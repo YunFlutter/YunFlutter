@@ -1,14 +1,13 @@
 <h1 align="center">👋 안녕하세요! 저는 윤서입니다.</h1>
 
 
+
 ---
 
 ## 🚀 소개
 - 🎯 **관심 분야:** 모바일 앱 개발, 프론트엔드 개발, 오픈소스 기여  
-- 🔭 **현재 진행 중:** Flutter & React.js 프로젝트  
-- 🌱 **공부 중:** 고급 Dart, CSS 애니메이션, UI/UX 디자인  
-- 💬 **질문 환영:** Flutter, Dart, React.js, Git  
-- 📫 **연락 방법:** [이메일](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🔭 **현재 진행 중:**  Dart 기초 공부
+- 🌱 **공부 중:** 고급 Dart, Flutter, 
 
 ---
 
@@ -33,6 +32,4 @@
 ## 📞 연락처
 📧 **이메일:** og737596@gmail.com
 
----
 
-💡 **"더 많이 코딩하고, 더 많이 배우고, 더 많이 성장하세요!"** 🚀
